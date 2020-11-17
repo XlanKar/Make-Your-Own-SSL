@@ -1,5 +1,5 @@
-Reviewed by XlanKar.
+Reviewed by XlanKar.<br>
 XlanKar tarafından yapılmıştır.
 
-Discord: XlanKar#1916
+Discord: XlanKar#1916 <br>
 Contact: xlankar@gmail.com
