@@ -1,5 +1,0 @@
-# ÇOKLU DOMAİN KULLANMAK İÇİN AKTİF KOMUTU SİLİP AŞŞAĞIDAKİ KOMUTU KULLANABİLİRSİNİZ.
-# TO USE MULTIPLE DOMAINS, YOU CAN DELETE THE ACTIVE COMMAND AND USE THE FOLLOWING COMMAND.
-# =================================================================================================================
-# subjectAltName=DNS:*.domainone.com,DNS:*.domaintwo.com,IP:0.0.0.0
-subjectAltName=DNS:*.yourdomain.com,IP:0.0.0.0
