@@ -1,7 +1,7 @@
 ## How to Run
 ```shell
 git clone https://github.com/XlanKar/Make-Your-Own-SSL.git
-cd select a version/ssl-generator-v1.0.0/cert/
+cd /select a version/ssl-generator-v1.0.0/cert/
 ssl-gen.sh open the file
 ```
 
