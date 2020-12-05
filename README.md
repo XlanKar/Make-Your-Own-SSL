@@ -11,7 +11,6 @@ Discord: XlanKar#1916
 Discord Group: https://discord.gg/2XEh2nz
 Contact: xlankar@gmail.com
 ```
-<br>
 ## Commands
 ```shell
 https://man.openbsd.org/openssl.1#req
